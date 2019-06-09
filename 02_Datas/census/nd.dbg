@@ -1,0 +1,7 @@
+
+------------------- TRACEBACK -------------------------
+Module "Err  " Message   4: file ".\err.c   " line 1547
+Module "Err  " Message   4: file ".\err.c   " line 1547
+Module "Err  " Message  -1: file ".\err.c   " line 2009
+-------------------------------------------------------
+FATAL ERROR     Failure during error recovery
